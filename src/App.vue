@@ -1,28 +1,59 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Header :choose="choose" @chooseChange="handleChooseChange" />
+    <Content />
+    <Footer />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import Header from "./components/Header";
+import Content from "./components/Content";
+import Footer from "./components/Footer";
 export default {
-  name: 'App',
+  name: "App",
+  data() {
+    return {
+      choose: "首页",
+    };
+  },
   components: {
-    HelloWorld
-  }
-}
+    Header,
+    Content,
+    Footer,
+  },
+  methods: {
+    handleChooseChange(newChoose) {
+      this.choose = newChoose;
+    },
+    wrapListener() {
+      let aDoms = document.getElementsByClassName("anchor");
+      let len = aDoms.length;
+
+    },
+  },
+  mounted() {
+    this.wrapListener();
+  },
+};
 </script>
 
 <style lang="less">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+@import "~@/styles/media.less";
+@import "~@/styles/var.less";
+
+html {
+  overflow-x: hidden;
+  font-size: 20px;
+  scroll-behavior: smooth;
+  background-color: #fff;
+  scroll-behavior: smooth;
 }
+body {
+  font-family: Microsoft YaHei, Tahoma, Arial, Helvetica Neue, Helvetica,
+    sans-serif;
+  padding: 70px 0 0;
+  margin: 0;
+}
+
 </style>
