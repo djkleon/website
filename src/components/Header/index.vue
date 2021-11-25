@@ -46,7 +46,7 @@ export default {
           "关于我们",
           "专注领域",
           "服务范围",
-          "海诗风采",
+          "公司风采",
           "加入我们",
         ],
         src: ["#banner", "#about", "#focus", "#area", "#highlight", "#join"],

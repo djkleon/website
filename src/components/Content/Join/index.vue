@@ -3,7 +3,7 @@
     <div class="join"></div>
     <h3>加入我们</h3>
     <p class="partial-desc">
-      发现你，成就你。海诗致力于打造高科技领域的顶尖顾问团队，你将和真诚友善、满怀激情的小伙伴一起，服务国内外全球顶级高科技公司，亲历全球科技行业的浪潮。
+      发现你，成就你。致力于打造高科技领域的顶尖顾问团队，你将和真诚友善、满怀激情的小伙伴一起，服务国内外全球顶级高科技公司，亲历全球科技行业的浪潮。
       加入我们，让你的职业生涯成就非凡。
     </p>
 
@@ -21,31 +21,31 @@
         <div class="contact">
           <p class="company-title">上海总部</p>
           <p class="address">
-            地址: 上海市普陀区陕西北路1438号财富时代大厦2212-2222室
+            地址: 上海市XX区XX路XX号XX大厦XX室
           </p>
           <p class="email">
             联系人：
-            <a href="mailto:miley.zhang@bo-zhou.com">miley.zhang@bo-zhou.com</a>
+            <a href="mailto:dujinkun163@163.com">dujinkun163@163.com</a>
           </p>
         </div>
         <div class="contact">
-          <p class="company-title">上海总部</p>
+          <p class="company-title">北京分部</p>
           <p class="address">
-            地址: 上海市普陀区陕西北路1438号财富时代大厦2212-2222室
+            地址: 北京市XX区XX路XX号XX大厦XX室
           </p>
           <p class="email">
             联系人：
-            <a href="mailto:miley.zhang@bo-zhou.com">miley.zhang@bo-zhou.com</a>
+            <a href="mailto:dujinkun163@163.com">dujinkun163@163.com</a>
           </p>
         </div>
         <div class="contact">
-          <p class="company-title">上海总部</p>
+          <p class="company-title">深圳分部</p>
           <p class="address">
-            地址: 上海市普陀区陕西北路1438号财富时代大厦2212-2222室
+            地址: 深圳市XX区XX路XX号XX大厦XX室
           </p>
           <p class="email">
             联系人：
-            <a href="mailto:miley.zhang@bo-zhou.com">miley.zhang@bo-zhou.com</a>
+            <a href="mailto:dujinkun163@163.com">dujinkun163@163.com</a>
           </p>
         </div>
       </div>

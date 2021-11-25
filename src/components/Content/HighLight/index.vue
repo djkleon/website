@@ -1,6 +1,6 @@
 <template>
   <div class="highLight-container">
-    <h3>海诗风采</h3>
+    <h3>公司风采</h3>
     <p class="partial-desc">
       在这里，老板变着法子发奖金，老猎乐衷分享培训，童鞋们“明目张胆”拿老板照片做表情包，HR
       时刻琢磨着下午茶、生日会、中秋节、圣诞节⋯

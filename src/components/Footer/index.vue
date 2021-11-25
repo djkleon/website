@@ -12,8 +12,8 @@
         </li>
       </ul>
       <div class="copyright">
-        © Copyright Bo-Zhou.com. All Rights Reserved
-        <a href="https://beian.miit.gov.cn">沪ICP备12044840号-1</a>
+        © Copyright All Rights Reserved
+        <a href="https://beian.miit.gov.cn">沪ICP备xxxx号-1</a>
       </div>
     </div>
   </div>
@@ -29,7 +29,7 @@ export default {
           "关于我们",
           "专注领域",
           "服务领域",
-          "海诗风采",
+          "公司风采",
           "加入我们",
         ],
         src: ["#banner", "#about", "#focus", "#area", "#highlight", "#join"],
